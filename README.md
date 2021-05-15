@@ -2,7 +2,7 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL:https://vigneshkp90.github.io/Mithu/
+URL:https://vigneshkp90.github.io/Happy_birthday_maddii
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
